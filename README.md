@@ -1,6 +1,6 @@
 # Transaction Management
 
-Below is the list of applicationrepos using spring transaction management
+Below is the list of application repos using spring transaction management
 
 | ![Project](https://img.shields.io/badge/Project-blue.svg)      | ![Repo](https://img.shields.io/badge/Repo-blue.svg)         |
 |--------------|------------------|
